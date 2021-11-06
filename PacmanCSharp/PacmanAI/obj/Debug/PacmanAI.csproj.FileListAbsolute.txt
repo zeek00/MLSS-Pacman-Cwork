@@ -1,0 +1,12 @@
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\blue_block.png
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\green_block.png
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\red_block.png
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\PacmanAI.dll.config
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\PacmanAI.dll
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\PacmanAI.pdb
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanAI\obj\Debug\PacmanAI.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanAI\obj\Debug\PacmanAI.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanAI\obj\Debug\PacmanAI.csproj.CopyComplete
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanAI\obj\Debug\PacmanAI.dll
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanAI\obj\Debug\PacmanAI.pdb
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\Accord.dll.config

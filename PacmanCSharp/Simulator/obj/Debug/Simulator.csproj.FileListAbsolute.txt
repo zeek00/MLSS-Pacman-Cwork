@@ -1,0 +1,13 @@
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\blue_block.png
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\green_block.png
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\red_block.png
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\Pacman.Simulator.exe.config
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\Pacman.Simulator.exe
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\Pacman.Simulator.pdb
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\Simulator\obj\Debug\Pacman.Simulator.Visualizer.resources
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\Simulator\obj\Debug\Pacman.Simulator.exe
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\Simulator\obj\Debug\Pacman.Simulator.pdb
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\Accord.dll.config

@@ -1,0 +1,8 @@
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\blue_block.png
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\PacmanGameLogic.dll
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\Binaries\PacmanGameLogic.pdb
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanGameLogic\obj\Debug\PacmanGameLogic.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanGameLogic\obj\Debug\PacmanGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanGameLogic\obj\Debug\PacmanGameLogic.csproj.CopyComplete
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanGameLogic\obj\Debug\PacmanGameLogic.dll
+C:\Users\isaac\Desktop\PacMan-CSharp-master\PacMan-CSharp-master\PacmanCSharp\PacmanGameLogic\obj\Debug\PacmanGameLogic.pdb
