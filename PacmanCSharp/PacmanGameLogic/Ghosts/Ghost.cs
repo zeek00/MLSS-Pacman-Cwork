@@ -158,21 +158,21 @@ namespace Pacman.GameLogic.Ghosts
 
 				}
 			}
-			if (possible.Contains(Direction.Down))
+			else if (possible.Contains(Direction.Down))
 			{
 				if (gMin.Equals(downMove))
 				{
 					NextDirection = (Direction.Down);
 				}
 			}
-			if (possible.Contains(Direction.Left))
+			else if (possible.Contains(Direction.Left))
 			{
 				if (gMin.Equals(leftMove))
 				{
 					NextDirection = (Direction.Left);
 				}
 			}
-			if (possible.Contains(Direction.Right))
+			else if (possible.Contains(Direction.Right))
 			{
 				if (gMin.Equals(rightMove))
 				{
